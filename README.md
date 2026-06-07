@@ -1,2 +1,2 @@
 # projeto-dio
-desafio dio heinekken
+Segundo cérebro de um dos maiores economistas que ja existiram, Gregory Mankiw, meus objetivos são entender a macroeconomia mundial
